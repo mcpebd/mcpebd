@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604936365454",
+    "project_id": "moinkraftbd",
+    "storage_bucket": "moinkraftbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604936365454:android:bc0000496e8cdc2461b0df",
+        "android_client_info": {
+          "package_name": "github.faizul726.moinkraftbd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz8FauyApNiGBq-hvQHc13wMmxgvu5JAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
